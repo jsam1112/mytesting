@@ -1,0 +1,11 @@
+{
+  "token": "abc",
+  "user": {
+    "_id":"1",
+    "token":"usertoken",
+    "fname":"Virat",
+    "lname":"Kohli",
+    "type":"cricketer",
+    "email":"vk@gmail.com"
+  }
+}
